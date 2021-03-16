@@ -37,3 +37,7 @@ console.log(array);
 
 var array2 = array.concat(splice, slice);
 console.log(array2);
+
+// teste merge sublime
+var array2 = array.concat(splice, slice);
+console.log(array2);
